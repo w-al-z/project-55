@@ -1,0 +1,28 @@
+.Button {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  padding-top: 20px;
+}
+.btn--1 {
+  width: 149px;
+  height: 47px;
+  background: #e9fbff;
+  border: 2px solid #4196b8;
+  border-radius: 18px;
+  font-weight: 500;
+  font-size: 16px;
+  color: #4196b8;
+}
+.btn--2 {
+  width: 187px;
+  height: 47px;
+  background: rgba(237, 237, 237, 0.2);
+  border: 2px solid #afafaf;
+  border-radius: 18px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+  color: #949494;
+}

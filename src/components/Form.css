@@ -1,0 +1,224 @@
+.team {
+  width: 450px;
+  height: 47px;
+  font-weight: 700;
+  font-size: 36px;
+  color: #4b4c4e;
+  line-height: 10px;
+}
+.fill {
+  font-weight: 400;
+  font-size: 16px;
+  width: 575px;
+  height: 52px;
+  color: #1d272e;
+  line-height: 30px;
+}
+.build {
+  border-bottom: 4px solid #4eb9e3;
+}
+.shayo {
+  font-family: "Poppins";
+  /* padding: 30px 0px 0px 20%; */
+}
+.name {
+  width: 92%;
+  height: 55px;
+  background: #ffffff;
+  border: 1px solid #c8d0da;
+  border-radius: 10px;
+  padding-left: 20px;
+  font-size: 16px;
+}
+.your-name {
+  font-weight: 500;
+  font-size: 14px;
+  color: #1d272e;
+  line-height: 30px;
+}
+.formular1 {
+  padding-top: 60px;
+  /* line-height: 10px; */
+}
+.formular2 {
+  padding-top: 20px;
+}
+.numbers {
+  width: 92%;
+  height: 55px;
+  background: #ffffff;
+  border: 1px solid #c8d0da;
+  border-radius: 10px;
+  padding-left: 20px;
+  font-size: 16px;
+}
+.message {
+  width: 92%;
+  height: 255px;
+  background: #ffffff;
+  border: 1px solid #c8d0da;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-bottom: 180px;
+  font-size: 16px;
+}
+.consult {
+  width: 215px;
+  height: 40px;
+  background: #4eb9e3;
+  border-radius: 8px;
+  color: white;
+  border: none;
+  margin-top: 20px;
+}
+.info {
+  font-weight: 600;
+  font-size: 20px;
+  color: #1d272e;
+  font-family: "Montserrat";
+}
+.followus {
+  font-weight: 600;
+  font-size: 20px;
+  color: #1d272e;
+}
+.locations {
+  width: 28px;
+  height: 28px;
+}
+.ave {
+  display: flex;
+  gap: 20px;
+  padding-top: 20px;
+  font-family: "Poppins";
+}
+.washington {
+  font-weight: 400;
+  font-size: 16px;
+  width: 200px;
+  height: 52px;
+  color: #1d272e;
+}
+.phones {
+  display: flex;
+  gap: 20px;
+  padding-top: 30px;
+  font-family: "Poppins";
+}
+.messanger {
+  display: flex;
+  gap: 20px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  font-family: "Poppins";
+}
+.apps {
+  display: flex;
+  gap: 15px;
+  padding-top: 15px;
+  font-family: "Poppins";
+}
+.Form {
+  display: flex;
+  align-items: center;
+  margin-top: 150px;
+  gap: 5px;
+  justify-content: center;
+  width: 100%;
+  height: 1101px;
+  background: #f4fbff;
+}
+
+@media (max-width: 768px) {
+  .Form {
+    display: flex;
+    flex-direction: column;
+    height: 1500px;
+  }
+  .shayo2 {
+    padding-top: 20px;
+  }
+}
+@media (max-width: 600px) {
+  .team {
+    font-size: 30px;
+    /* padding-left: 5px; */
+  }
+  .fill {
+    width: 430px;
+  }
+  .numbers {
+    /* width: 70%; */
+  }
+  .name {
+    /* width: 70%; */
+  }
+  .message {
+    /* width: 70%; */
+  }
+  .shayo {
+    /* padding-left: 20%; */
+    width: 420px;
+  }
+  .shayo2 {
+    padding-top: 20px;
+  }
+  .scarees {
+    width: 100px;
+  }
+}
+@media (max-width: 425px) {
+  .formular2 {
+    padding-left: 40px;
+  }
+  .formular1 {
+    padding-left: 40px;
+  }
+  .consult {
+    margin-left: 40px;
+    width: 350px;
+  }
+  .team {
+    padding-left: 30px;
+    width: 410px;
+  }
+  .fill {
+    padding-left: 30px;
+    width: 410px;
+  }
+  .young {
+    padding-left: 20px;
+  }
+  .lorem {
+    width: 380px;
+    padding-left: 20px;
+  }
+  .upnow {
+    padding-left: 20px;
+    padding-top: 20px;
+  }
+  .job {
+    padding-left: 20px;
+  }
+  .gain {
+    width: 380px;
+    padding-left: 20px;
+  }
+  .scarees {
+    width: 100px;
+  }
+  .talents {
+    font-size: 20px;
+    width: 250px;
+  }
+  .vibrant {
+    width: 200px;
+    line-height: 20px;
+  }
+  .autopilot {
+    padding-left: 20px;
+  }
+  .collateral {
+    padding-left: 20px;
+  }
+}
