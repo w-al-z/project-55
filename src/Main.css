@@ -110,3 +110,14 @@
     padding-right: 20px;
   }
 }
+@media (max-width: 425px) {
+  .talents {
+    font-size: 21px;
+    width: 270px;
+  }
+  .vibrant {
+    width: 200px;
+    line-height: 20px;
+    padding-top: 20px;
+  }
+}
