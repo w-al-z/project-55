@@ -94,6 +94,7 @@
     font-size: 23px;
     width: 350px;
     height: 110px;
+    padding-top: 20px;
   }
   .vibrant {
     font-size: 13px;
@@ -103,6 +104,7 @@
     align-items: center;
   }
   .hero {
+    display: none;
     width: 150px;
     height: 259px;
     padding-right: 20px;
