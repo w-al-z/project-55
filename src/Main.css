@@ -121,3 +121,11 @@
     padding-top: 20px;
   }
 }
+@media (max-width: 375px) {
+  .tired {
+    display: none;
+  }
+  .problemms {
+    display: none;
+  }
+}
